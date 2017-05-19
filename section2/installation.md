@@ -6,3 +6,4 @@ Light your house on fire
 
 # Uninstall
 TODO: tell people how to uninstall the product
+Extinguish your house
