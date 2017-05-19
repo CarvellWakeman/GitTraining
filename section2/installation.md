@@ -6,4 +6,4 @@ Burn your house down
 
 # Uninstall
 TODO: tell people how to uninstall the product
-Extinguish your house
+Extinguish your house 
